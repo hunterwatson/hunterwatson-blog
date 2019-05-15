@@ -12,7 +12,7 @@ type Props = {
 
 const Contacts = ({ contacts }: Props) => (
   <div className={styles['contacts']}>
-    <ul className={styles['contacts__list']}>
+    {/* <ul className={styles['contacts__list']}>
       {Object.keys(contacts).map((name) => (
         <li className={styles['contacts__list-item']} key={name}>
           <a
@@ -25,7 +25,7 @@ const Contacts = ({ contacts }: Props) => (
           </a>
         </li>
       ))}
-    </ul>
+    </ul> */}
   </div>
 );
 
