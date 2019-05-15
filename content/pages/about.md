@@ -2,6 +2,6 @@
 template: page
 title: Hello
 slug: a test page
-draft: true
+draft: false
 ---
 Testing testing testing
