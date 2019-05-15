@@ -19,4 +19,4 @@ https://www.gatsbyjs.org/docs/quick-start
 
 _You might have to do some extra npm stuff as well._
 
-Visit the local site at `https://localhost:8000`
+Visit the local site at https://localhost:8000
