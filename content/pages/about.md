@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: a test page
+slug: about-me
 draft: false
 ---
 Testing testing testing
