@@ -27,6 +27,8 @@ The answer is... probably something in between. Anyways here's a little guide on
 
 - - -
 
+_Note: This guide only focuses on the aesthetic changes. I'll be making another post about the added features and benefits of some of these changes later_
+
 ## 0. Install Brew
 
 [Homebrew](https://brew.sh/) is a package manager for Mac (and Linux). If you're doing any kind of software dev stuff on your Mac, you'll probably end up using it to install packages and dependencies.
