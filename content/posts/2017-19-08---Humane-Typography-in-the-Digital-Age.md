@@ -28,5 +28,18 @@ The answer is... probably something in between. Anyways here's a little guide on
 
 ---
 
-## Install iTerm 2
+## Install Brew
+Homebrew is a package manager for Mac (and Linux). If you're doing any kind of software dev stuff on your Mac, you'll probably end up using it to install packages and dependencies.
 
+In your command prompt, run the following command:
+```bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+## Set Up iTerm2
+iTerm2 offers a lot of benefits over the default Mac terminal... but I mostly use it because it supports a lot of different colours.
+
+Install iTerm2 [here](https://www.iterm2.com/) or run the following command:
+```
+brew cask install iterm2
+```
