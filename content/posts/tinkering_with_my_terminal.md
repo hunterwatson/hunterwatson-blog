@@ -68,7 +68,7 @@ Navigate to the Text tab (`iTerm2 -> Preferences -> Profiles -> Text`). At the b
 
 Spend some time looking around the other settings tabs and change things to your liking. I don't remember what I changed in here, but it should mostly be preference. One thing I have enabled is `Unlimited scrollback` from the Terminal tab (iTerm2 -> Preferences -> Profiles -> Terminal), which lets you scroll wayyyyyyy back to see your old stuff.
 
-# 1. Set Up Zsh (and other stuff)
+# 3. Set Up Zsh (and other stuff)
 
 By default, your Mac uses `Bash`. Zsh (_sometimes called Z-Shell_) is a fancy shmancy version of it. I'll get into some features later. [Oh my Zsh](https://ohmyz.sh/) is a configuration framework for Zsh. I don't really know what it does, but I appreciate it.
 
@@ -132,6 +132,7 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=5
 ![subdirectories screenshot](/media/screen-shot-2019-05-17-at-2.26.50-am.png "Shorten Subdirectories")
 
 My prompt shows the directory and vsc information on one line, and the input on another. You can add this new line functionality by inserting the following lines. I chose to not have a prompt prefix on the first line, but use the class `$` on the one where I actually type stuff.
+
 ```
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
@@ -140,6 +141,7 @@ POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX='$ '
 ```
 
 By default, Powerlevel9k has a bunch of icons in the prompt. I didn't love it so I set them to a blank string.
+
 ```
 POWERLEVEL9K_ETC_ICON=''
 POWERLEVEL9K_FOLDER_ICON=''
@@ -149,10 +151,11 @@ POWERLEVEL9K_VCS_BRANCH_ICON=''
 ```
 
 The rest of the prompt config lines are for colours. There are foreground and background components for each section of the prompt (dir, vsc, etc.); however, some of the sections can have different colours depending on what directory you're in, the status of your git repository, and a couple of other things. You can find all the supported colours by running this snippet in your terminal:
+
 ```sh
 for code ({000..255}) print -P -- "$code: %F{$code}This is how your text would look like%f"
 ```
 
----
+- - -
 
 Voila, if you've followed those steps (and used a little bit of critical thinking to cover the gaps I missed) you should have a new terminal set up just the way you like it (at least aesthetically). In the near future I'm going to post a Part 2 where I'll cover some cool functionality of your new prompt, my favourite plugins, and some other technical things.
