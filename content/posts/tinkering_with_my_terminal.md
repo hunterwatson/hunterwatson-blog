@@ -67,7 +67,7 @@ Navigate to the Text tab (`iTerm2 -> Preferences -> Profiles -> Text`). At the b
 
 Spend some time looking around the other settings tabs and change things to your liking. I don't remember what I changed in here, but it should mostly be preference. One thing I have enabled is `Unlimited scrollback` from the Terminal tab (iTerm2 -> Preferences -> Profiles -> Terminal), which lets you scroll wayyyyyyy back to see your old stuff.
 
-## 1. Set Up Zsh (and other stuff)
+## 2. Set Up Zsh (and other stuff)
 
 By default, your Mac uses `Bash`. Zsh (_sometimes called Z-Shell_) is a fancy shmancy version of it. I'll get into some features later. [Oh my Zsh](https://ohmyz.sh/) is a configuration framework for Zsh. I don't really know what it does, but I appreciate it.
 
