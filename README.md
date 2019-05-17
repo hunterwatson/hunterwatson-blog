@@ -14,7 +14,7 @@ npm install -g gatsby-cli
 In the project directory, start the development server:
 
 ```bash
-https://www.gatsbyjs.org/docs/quick-start
+gatsby serve
 ```
 
 _You might have to do some extra npm stuff as well._
