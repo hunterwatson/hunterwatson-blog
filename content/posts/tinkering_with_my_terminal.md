@@ -14,7 +14,7 @@ tags:
   - Productivity
 ---
 
-![finished terminal preview](/media/screen-shot-2019-05-15-at-3.20.33-am.png "Fully Customized Terminal")
+![finished terminal preview](/media/iterm2_screenshot.png "Fully Customized Terminal")
 
 I was talking with my fellow interns about our personal workspace setups, and I was super surprised when two of them said they use the default Mac `terminal.app` with no customization whatsoever. I thought I was going to blow their mind when I whipped out my spiffy, colourful, dark-theme terminal prompt, but to my surprise, they were having none of it.
 
@@ -131,7 +131,7 @@ You can set the number of subdirectories to go down before it starts shortening 
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=5
 ```
 
-![subdirectories screenshot](/media/screen-shot-2019-05-17-at-2.26.50-am.png "Shorten Subdirectories")
+![subdirectories screenshot](/media/iterm2_shorten.png "Shorten Subdirectories")
 
 My prompt shows the directory and vsc information on one line, and the input on another. You can add this new line functionality by inserting the following lines. I chose to not have a prompt prefix on the first line, but use the class `$` on the one where I actually type stuff.
 
