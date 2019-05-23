@@ -11,7 +11,7 @@ description: >-
   a power user.
 category: misc
 ---
-Google Chrome has a whole bunch of useful [keyboard shortcuts]; however, there are still some features that can only be accessed by using the mouse. Fortunately, when it comes to _duplicating a tab_, we are given all the tools we need for hacking together our own solution. I'm doing this on a Mac, but all of these shortcuts can be mapped to other operating systems.
+Google Chrome has a whole bunch of useful [keyboard shortcuts](https://support.google.com/chrome/answer/157179); however, there are still some features that can only be accessed by using the mouse. Fortunately, when it comes to _duplicating a tab_, we are given all the tools we need for hacking together our own solution. I'm doing this on a Mac, but all of these shortcuts can be mapped to other operating systems.
 
 To duplicate the tab you are in, execute the following shortcuts in sequence:
 
