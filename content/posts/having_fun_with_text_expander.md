@@ -5,11 +5,12 @@ slug: /posts/having-fun-with-textexpander
 draft: false
 date: 2019-05-17T03:40:00.000Z
 description: >-
-  TextExpander is a handy tool that lets you insert "snippets" using keyboard shortcuts or abbreviations. This post explores some of my most used shortcuts as well as some fun stuff you can do with it.
+  TextExpander is a handy tool that lets you insert "snippets" using keyboard
+  shortcuts or abbreviations. This post explores some of my most used shortcuts
+  as well as some fun stuff you can do with it.
 category: Dev
 tags:
-  - TextExpander
-  - Productivity
+  - productivity
 ---
 
 ## What is TextExpander
