@@ -10,6 +10,7 @@ description: >-
   as well as some fun stuff you can do with it.
 category: productivity
 tags:
+  - textexpander
   - productivity
 ---
 
