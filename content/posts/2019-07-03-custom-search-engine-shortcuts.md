@@ -44,7 +44,7 @@ To use this custom search, type the **keyword** into your browser search bar, hi
 Here's a list of the custom searches I currently have set up (along with the config):
 
 | Search Engine | Keyword | URL |
-|--------|-----|:-----------------------------|
+|:---|:---|:---|
 | Reddit | !sr | `https://www.reddit.com/r/%s` |
 | Google Drive | !drive | `https://drive.google.com/drive/search?q=%s` |
 | Google Translate (to French) | !2fr | `https://translate.google.com/#en/fr/%s` |
