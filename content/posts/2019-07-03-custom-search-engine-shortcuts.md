@@ -2,7 +2,7 @@
 template: post
 title: custom search engine shortcuts
 slug: custome-search-engines
-draft: true
+draft: false
 date: 2019-07-03T03:15:38.806Z
 description: >-
   Sometimes we want our searches to be more specific than Google. Maybe we want
