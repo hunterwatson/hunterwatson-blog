@@ -8,7 +8,7 @@ description: >-
   TextExpander is a handy tool that lets you insert "snippets" using keyboard
   shortcuts or abbreviations. This post explores some of my most used shortcuts
   as well as some fun stuff you can do with it.
-category: Dev
+category: productivity
 tags:
   - productivity
 ---
