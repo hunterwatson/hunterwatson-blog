@@ -1,7 +1,7 @@
 ---
 template: post
 title: custom search engine shortcuts
-slug: custome-search-engines
+slug: custom-search-engines
 draft: false
 date: 2019-07-05T03:45:00.000Z
 description: >-
