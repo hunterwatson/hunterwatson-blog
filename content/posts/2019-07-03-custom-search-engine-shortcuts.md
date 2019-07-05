@@ -3,7 +3,7 @@ template: post
 title: custom search engine shortcuts
 slug: custome-search-engines
 draft: false
-date: 2019-07-03T03:15:38.806Z
+date: 2019-07-05T03:45:00.000Z
 description: >-
   Sometimes we want our searches to be more specific than Google. Maybe we want
   to search something on wikipedia, netflix,  or google translate. Maybe you
