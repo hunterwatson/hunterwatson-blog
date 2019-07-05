@@ -13,7 +13,7 @@ category: productivity
 tags:
   - productivity
 ---
-I tried using DuckDuckGo for a couple days (privacy, unbiased results, control, blah blah blah), but I found preceding every search with `!g`. DuckDuckGo has these things called _!Bangs_, which are "shortcuts that quickly take you to search results on other sites", according to [their website](https://duckduckgo.com/bang). For example, if I want to search "dog" on Wikipedia, I can type `!w dog` in the search field at the top of my browser, and it will take me to the [search result of dogs on wikipedia](https://en.wikipedia.org/wiki/Dog).
+I tried using DuckDuckGo for a couple days (privacy, unbiased results, control, blah blah blah), but I found myself preceding every search with `!g`. DuckDuckGo has these things called _!Bangs_, which are "shortcuts that quickly take you to search results on other sites", according to [their website](https://duckduckgo.com/bang). For example, if I want to search "dog" on Wikipedia, I can type `!w dog` in the search field at the top of my browser, and it will take me to the [search result of dogs on wikipedia](https://en.wikipedia.org/wiki/Dog).
 
 _!Bangs_ were the only thing stopping me from switching back to Google search... But then I found out you can homebrew your own bangs with Google and I instantly switched back.
 
