@@ -10,8 +10,8 @@ description: >-
   reference to my config file if anyone wants to copy my setup exactly.
 category: Dev
 tags:
-  - Terminal
-  - Productivity
+  - terminal
+  - productivity
 ---
 
 ![finished terminal preview](/media/iterm2_screenshot.png "Fully Customized Terminal")
