@@ -12,7 +12,7 @@ description: >-
   history.
 category: dev
 tags:
-  - dev
+  - git
 ---
 During my last co-op, I was tasked with migrating some services to CircleCI. Due to some complications with local development, my testing process consisted of committing my changes, pushing to a remote branch, and seeing if the build passed. Unfortunately, this led to _lots_ of ugly, super minor commits, often with fairly careless commit messages.
 
