@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'A place for things and stuff',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: '',
   menu: [
     {
@@ -14,7 +14,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     }
   ],
