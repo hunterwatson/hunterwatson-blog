@@ -31,7 +31,7 @@ Okay so I've decided to not include steps for how to get the white cross because
 
 ## 2. First Layer Corners
 
-Now we can start with the mindless algorithms. With WHITE on the top, find the corner piece that goes in the top-right corner (in the image it's the WHITE-RED-BLUE piece) and line it up on thee front-right side. 
+Now we can start with the mindless algorithms. With WHITE on the top, find the corner piece that goes in the top-right corner (in the image it's the WHITE-RED-BLUE piece) and line it up somewhere on the right side.
 
 ![](/media/2-row1_corners.png "Top Layer Corners")
 
