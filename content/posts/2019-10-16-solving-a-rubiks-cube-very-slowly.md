@@ -15,10 +15,6 @@ tags:
   - Puzzle
   - Misc
 ---
-
-
-
-
 This guide will explain how to solve a Rubik's cube in five (5) steps. For the first half, we'll put WHITE on the top and halfway through we'll switch to YELLOW on the top. Also, the algorithm steps are from left to right, then top to bottom.
 
 - - -
@@ -65,8 +61,12 @@ With YELLOW on top, find a corner with the correct position (doesn't need to hav
 
 _Note: This next part gets wonky and temporarily screws up the progress we've made in other areas. Trust yourself and keep going._
 
-All corners should be in the correct position (but maybe not the correct orientation). With YELLOW on top, perform the following algorithm until the corner is in the correct orientation. **Don't change your front side -** Rotate the top layer so the next wrong-orientation corner is in the top right. Repeat this algorithm until the corner is in the correct orientation. Do this for all corners until the top layer is complete. You might need to do a final twist on the top layer to line everything up.
+All corners should be in the correct position (but maybe not the correct orientation). With YELLOW on top, perform the following algorithm until the corner is in the correct orientation. **Don't change your front side -** Rotate the top layer so the next wrong-orientation corner is in the top right. Repeat this algorithm until the corner is in the correct orientation. Do this for all corners until the top layer is complete. 
 
----
+![](/media/7-bottom_corner_orientation.png "Third Layer Corners 2")
+
+You might need to do a final twist on the top layer to line everything up.
+
+- - -
 
 I really hope that made sense. I think the pictures do at the very least. [Here](https://www.speedcube.com.au/pages/how-to-solve-a-rubiks-cube) is a link to the tutorial I used.
