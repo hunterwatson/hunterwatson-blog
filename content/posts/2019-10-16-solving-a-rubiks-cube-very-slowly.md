@@ -19,7 +19,7 @@ tags:
 
 
 
-This guide will explain how to solve a Rubik's cube in five (5) steps. For the first half, we'll put WHITE on the top and halfway through we'll switch to YELLOW on the top.
+This guide will explain how to solve a Rubik's cube in five (5) steps. For the first half, we'll put WHITE on the top and halfway through we'll switch to YELLOW on the top. Also, the algorithm steps are from left to right, then top to bottom.
 
 - - -
 
