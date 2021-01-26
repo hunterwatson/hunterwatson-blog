@@ -80,7 +80,7 @@ I describe this game to my friends as "Overcooked but a good game." Out of Space
 
 Basically, you arrive at a procedurally-generated, alien-infested space ship, and you win by cleaning it. Sounds fun, right? 
 
-But here's the thing: you need to generate resources, make multiple shot-calls about short-term (order a pizza) vs. long-term (buy a pumpkin generator) decisions, tackle evolving aliens with different tools (mop, bucket of water, dog). Ugh this game is just so easy to get into but is full of choices and communication. In Overcooked, it feels like it's the two of you vs. the clock - but in Out of Space, it's the two of you vs. your environment, vs. yourselves, vs. the spaceship, AND vs. the clock.
+But here's the thing: you need to generate resources, make multiple shot-calls about short-term (order a pizza) vs. long-term (buy a pumpkin generator) decisions, tackle evolving aliens with different tools (mop, bucket of water, dog). Ugh this game is just so easy to get into but is full of choices and communication. In Overcooked, it feels like it's the two of you vs. the clock - but in Out of Space, it's the two of you vs. your environment vs. yourselves vs. the spaceship vs. time and space.
 
 ![](/media/out_of_space_1.jpg)
 
