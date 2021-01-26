@@ -14,13 +14,13 @@ tags:
 ---
 Thanks to Covid-19, I've had a lot of time to refine my video game preferences over the past few months. I no longer have any interest in vast, open-world, single-player, plot-driven games with 144-hour play-times featuring next-gen graphics that only the newest hardware can support. On the other side of the spectrum, I've grown away from competitive, online, multiplayer games. Additionally, I've always been a fan of big party games like the Jackbox games sets, but those games require a handful of players, which requires a handful of scheduling and organization. 
 
-However, somewhere between these two genres is an extremely under-appreciated set of games I like to call "Gaby Games" (My girlfriend's name is Gaby. I was going to call it girlfriend games, but then I realized that's not very inclusive and implies some generalization about females and video games, which isn't my intention at all).
-
-**Gaby Games Definition:** A local co-op game for 2 people with simple controls, charming gameplay, and some form of progression.
+However, somewhere between these two genres is an extremely under-appreciated set of games I like to call "Gaby Games" (My girlfriend's name is Gaby. I was going to call it girlfriend games, but then I realized that's not very inclusive and implies some generalization about females and video games, which isn't my intention at all). **Gaby Game Definition:** A local co-op game for 2 people with simple controls, charming gameplay, and some form of progression.
 
 Here's a list of my favourite couch co-op Nintendo Switch games, along with a rating out of 10 by Gaby:
 
-## 4. [Castle Crashers Remastered](https://www.nintendo.com/games/detail/castle-crashers-remastered-switch/) (8.5) | The Behemoth
+- - -
+
+## 4. [Castle Crashers Remastered](https://www.nintendo.com/games/detail/castle-crashers-remastered-switch/) (8.5)
 
 ![](/media/castle_crashers_0.jpg "Castle Crashers Game Cover")
 
@@ -36,7 +36,7 @@ This game is equal parts cute, crude, silly, and exciting, but most of all, it's
 
  Similar Game(s): [Full Metal Furies](https://www.nintendo.com/games/detail/full-metal-furies-switch/)
 
-## 3. [Super Mario Party](https://www.nintendo.com/games/detail/super-mario-party-switch/) (8.5) | NDcube
+## 3. [Super Mario Party](https://www.nintendo.com/games/detail/super-mario-party-switch/) (8.5)
 
 ![](/media/super_mario_party_0.jpg "Super Mario Party Cover")
 
@@ -50,7 +50,7 @@ Mario Party is Mario Party... there isn't too much to say about it, but I wanted
 
 _Similar Game(s): uhhhhh..._ [_Mario Kart 8 Deluxe_](https://mariokart8.nintendo.com/)_?_
 
-## 2. [The Stretchers](https://www.nintendo.com/games/detail/the-stretchers-switch/) (9.0) | Tarsier Studios
+## 2. [The Stretchers](https://www.nintendo.com/games/detail/the-stretchers-switch/) (9.0)
 
 ![](/media/stretchers_0.jpg "The Stretchers Game Cover")
 
@@ -66,7 +66,7 @@ This game is weird but tons of fun. I think we beat the game in a few nights (ma
 
 _Similar Game(s):_ [_Moving Out_](https://www.nintendo.com/games/detail/moving-out-switch/)_,_ [_Phogs!_](https://www.nintendo.com/games/detail/phogs-switch/)__
 
-## 1. [Out of Space: Couch Edition](https://www.nintendo.com/games/detail/out-of-space-couch-edition-switch/) (9.5) | Behold Studios
+## 1. [Out of Space: Couch Edition](https://www.nintendo.com/games/detail/out-of-space-couch-edition-switch/) (9.5)
 
 ![](/media/out_of_space_0.jpg "Out Of Space Game Cover")
 
