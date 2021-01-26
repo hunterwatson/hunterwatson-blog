@@ -9,7 +9,7 @@ description: >-
   unoptimized way to solve one fairly slowly. I used to think people who could
   solve a Rubik's Cube were geniuses with elite spacial awareness, but now I
   know they're just bored.
-category: Misc
+category: fun
 tags:
   - Rubik's Cube
   - Puzzle
