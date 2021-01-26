@@ -30,11 +30,11 @@ Here's the thing, the controls are a little more complicated than the other game
 
 ![](/media/castle_crashers.jpg "Castle Crashers Gameplay")
 
-This game is equal parts cute, crude, silly, and exciting, but most of all, it's a lot of fun. Here's a closing statement from Gaby (with comments by me):
+This game is equal parts cute, crude, silly, and exciting, but most of all, it's a lot of fun.
 
-> "I liked that we had to work together. Also, upgrading was fun, like, I liked being rewarded XP to choose what to use it on. Plus the other rewards like food, weapons, money, and gems... idk what the gems were now that I mention it. Ooh and I liked having to figure out the bad guys' kryptonite also how money was obtainable, like we didn't have to be SUPER good to buy several potions."
+> "I liked that we had to work together. Also, upgrading was fun, like, I liked being rewarded XP to choose what to use it on. Plus the other rewards like food, weapons, money, and gems... idk what the gems were now that I mention it. Ooh and I liked having to figure out the bad guys' kryptonite also how money was obtainable, like we didn't have to be SUPER good to buy several potions." - Gaby
 
- _Similar Game(s):_ [_Full Metal Furies_](https://www.nintendo.com/games/detail/full-metal-furies-switch/)__
+ _Similar Game(s):_ [_Full Metal Furies_](https://www.nintendo.com/games/detail/full-metal-furies-switch/)
 
 ## 3. [Super Mario Party](https://www.nintendo.com/games/detail/super-mario-party-switch/) (8.5)
 
@@ -44,7 +44,7 @@ This is the only big-name game on this list, but we had a lot of fun playing it.
 
 ![](/media/super_mario_party.jpg "Mario Party Gameplay")
 
-Mario Party is Mario Party... there isn't too much to say about it, but I wanted to include it on the list. Here's a closing statement from Gaby (with comments by me):
+Mario Party is Mario Party... there isn't too much to say about it, but I wanted to include it on the list.
 
 > "Umm... I like the mini-games. And that it's unpredictable - like u could be losing and come out with the dub." - Gaby
 
@@ -78,7 +78,7 @@ But here's the thing: you need to generate resources, make multiple shot-calls a
 
 ![](/media/out_of_space_1.jpg)
 
-Gaby wasn't feeling it at all after trying the tutorial, but once she got into it a little more, we probably played an hour or two of it every day of our quarantine. I highly recommend this game. Here's a closing statement from Gaby (with comments by me):
+Gaby wasn't feeling it at all after trying the tutorial, but once she got into it a little more, we probably played an hour or two of it every day of our quarantine. I highly recommend this game.
 
 > "Very fun. A bit stressful at times... If you like your heart rate increasing while playing a game, then this game is for you. But ya I like having to conquer a whole map, and working together is fun. Also, being able to move stuff and purchase things, like you can make it fun it's kind of like playing house while having to complete an objective."
 
