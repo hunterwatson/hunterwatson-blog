@@ -7,7 +7,7 @@ date: 2021-01-26T04:18:55.748Z
 description: >-
   I recently quarantined with my girlfriend for 14 days. We tried a lot of
   different couch co-op games on my switch, and these were our favourites :)
-category: gaming
+category: fun
 tags:
   - gaming
   - switch
