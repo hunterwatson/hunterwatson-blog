@@ -50,8 +50,6 @@ Mario Party is Mario Party... there isn't too much to say about it, but I wanted
 
 _Similar Game(s): uhhhhh..._ [_Mario Kart 8 Deluxe_](https://mariokart8.nintendo.com/)_?_
 
- 
-
 ## 2. [The Stretchers](https://www.nintendo.com/games/detail/the-stretchers-switch/) (9.0) | Tarsier Studios
 
 ![](/media/stretchers_0.jpg "The Stretchers Game Cover")
@@ -67,8 +65,6 @@ This game is weird but tons of fun. I think we beat the game in a few nights (ma
 > "I liked how silly it was. We laughed a lot. And the levels were always different and fun. I liked having to always work together, and the driving added a fun element." - Gaby
 
 _Similar Game(s):_ [_Moving Out_](https://www.nintendo.com/games/detail/moving-out-switch/)_,_ [_Phogs!_](https://www.nintendo.com/games/detail/phogs-switch/)__
-
- 
 
 ## 1. [Out of Space: Couch Edition](https://www.nintendo.com/games/detail/out-of-space-couch-edition-switch/) (9.5) | Behold Studios
 
@@ -86,4 +82,4 @@ Gaby wasn't feeling it at all after trying the tutorial, but once she got into i
 
 > "Very fun. A bit stressful at times... If you like your heart rate increasing while playing a game, then this game is for you. But ya I like having to conquer a whole map, and working together is fun. Also, being able to move stuff and purchase things, like you can make it fun it's kind of like playing house while having to complete an objective."
 
-_Similar Game(s):_ [_Overcooked 2_](https://www.nintendo.com/games/detail/overcooked-2-switch/)_,_ [_Catastronauts_](https://www.nintendo.com/games/detail/catastronauts-switch/)_,_ [_Lovers in a Dangerous Spacetime_](https://www.nintendo.com/games/detail/lovers-in-a-dangerous-spacetime-switch/)__
+_Similar Game(s):_ [_Overcooked 2_](https://www.nintendo.com/games/detail/overcooked-2-switch/)_,_ [_Catastronauts_](https://www.nintendo.com/games/detail/catastronauts-switch/)_,_ [_Lovers in a Dangerous Spacetime_](https://www.nintendo.com/games/detail/lovers-in-a-dangerous-spacetime-switch/)
