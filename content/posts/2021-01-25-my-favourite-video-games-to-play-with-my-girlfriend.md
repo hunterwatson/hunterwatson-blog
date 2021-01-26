@@ -34,7 +34,7 @@ This game is equal parts cute, crude, silly, and exciting, but most of all, it's
 
 > "I liked that we had to work together. Also, upgrading was fun, like, I liked being rewarded XP to choose what to use it on. Plus the other rewards like food, weapons, money, and gems... idk what the gems were now that I mention it. Ooh and I liked having to figure out the bad guys' kryptonite also how money was obtainable, like we didn't have to be SUPER good to buy several potions."
 
- Similar Game(s): [Full Metal Furies](https://www.nintendo.com/games/detail/full-metal-furies-switch/)
+ _Similar Game(s):_ [_Full Metal Furies_](https://www.nintendo.com/games/detail/full-metal-furies-switch/)__
 
 ## 3. [Super Mario Party](https://www.nintendo.com/games/detail/super-mario-party-switch/) (8.5)
 
@@ -64,7 +64,7 @@ This game is weird but tons of fun. I think we beat the game in a few nights (ma
 
 > "I liked how silly it was. We laughed a lot. And the levels were always different and fun. I liked having to always work together, and the driving added a fun element." - Gaby
 
-_Similar Game(s):_ [_Moving Out_](https://www.nintendo.com/games/detail/moving-out-switch/)_,_ [_Phogs!_](https://www.nintendo.com/games/detail/phogs-switch/)__
+_Similar Game(s):_ [_Moving Out_](https://www.nintendo.com/games/detail/moving-out-switch/)_,_ [_Phogs!_](https://www.nintendo.com/games/detail/phogs-switch/)
 
 ## 1. [Out of Space: Couch Edition](https://www.nintendo.com/games/detail/out-of-space-couch-edition-switch/) (9.5)
 
