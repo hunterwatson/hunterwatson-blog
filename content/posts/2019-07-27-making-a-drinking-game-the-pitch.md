@@ -1,7 +1,7 @@
 ---
 template: post
-title: 'drinking game '
-slug: harmony-part-1
+title: drinking game app idea
+slug: drinking-game-app-idea
 draft: false
 date: 2019-08-21T16:16:12.799Z
 description: >-
